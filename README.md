@@ -23,7 +23,6 @@ List the key features of your project.
 - Data Preproccessing with the Pandas and NumPy libraries
 - Data collection from the NBA and Sleeper APIs
 - Data visualization with the Matplotlib and Seaborn libraries
-- The model is used in a RESTful Python API built with the FastAPI framework and cloud-hosted in Azure. It is fed new data daily through Azure Webjobs. Its data is stored in MongoDB.
 
 ## Usage
 
